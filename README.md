@@ -10,7 +10,7 @@
 - 📫 How to reach me: @milosdeath on Discord
 - 😄 Pronouns: he/they
 
-<h3>🛠 Languages and Tools :</h3>
+<h3>Languages and Tools:</h3>
 <p>
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/>
    <img src="https://img.icons8.com/fluency/48/null/visual-studio.png" alt="Visual Studio" width="40" height="40"/>
